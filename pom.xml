@@ -223,7 +223,7 @@
       </plugin>
 
       <!-- Spring Boot Actuator displays build-related information if a git.properties
-        file is present at the classpath --commenting out for hw7
+        file is present at the classpath -commenting out for hw7
       <plugin>
         <groupId>pl.project13.maven</groupId>
         <artifactId>git-commit-id-plugin</artifactId>
